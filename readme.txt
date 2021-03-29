@@ -1,4 +1,6 @@
 ***
+Link: https://ufo2849.github.io/Covid-19_tracker/index.html
+
 Readme document for the INF133 Final Project
 
 Member #1
